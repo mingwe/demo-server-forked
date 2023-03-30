@@ -1,11 +1,52 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "lite1337" },
+    { "id": 1, "title": "post one", "author": "lite1337" },
     { "id": 2, "title": "post two", "author": "lite1337" },
-    { "id": 3, "title": "post three", "author": "lite1337" }
+    { "id": 3, "title": "post three", "author": "lite1337" },
+    { "id": 4, "title": "post one mng", "author": "mng" },
+    { "id": 5, "title": "post two mng", "author": "mng" },
+    { "id": 6, "title": "post three mng", "author": "mng" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "lite1337" }
+  "profile": { "name": "lite1337" },
+  "products": [
+    { "id":  1,
+      "title": "Adidas",
+      "color": "Black",
+      "price": 100,
+      "rating": "4,5"
+    },
+    { "id":  2,
+      "title": "Reebok",
+      "color": "Red",
+      "price": 110,
+      "rating": "4"
+    },
+    { "id":  3,
+      "title": "Nike",
+      "color": "White",
+      "price": 90,
+      "rating": "3.5"
+    },
+    { "id":  4,
+      "title": "Puma",
+      "color": "Blue",
+      "price": 170,
+      "rating": "4.9"
+    },
+    { "id":  5,
+      "title": "Sketchers",
+      "color": "Gray",
+      "price": 110,
+      "rating": "4"
+    },
+    { "id":  5,
+      "title": "Noname",
+      "color": "Brown",
+      "price": 20,
+      "rating": "2"
+    }
+  ]
 }
