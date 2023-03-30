@@ -66,5 +66,6 @@
       "price": 20,
       "rating": "2"
     }
-  ]
+  ],
+  "colors": ['white', 'black', 'red', 'blue', 'grey', 'brown']
 }
