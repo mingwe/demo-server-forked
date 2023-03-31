@@ -13,6 +13,7 @@
   "profile": { "name": "lite1337" },
   "products": [
     { "id":  1,
+      "image": "://demo-server-forked.vercel.app/assets/black1.png",
       "title": "Adidas",
       "color": "black",
       "price": 100,
@@ -31,6 +32,7 @@
       "rating": 4
     },
     { "id":  4,
+      "image": "://demo-server-forked.vercel.app/assets/black2.png",
       "title": "Reebok dark",
       "color": "black",
       "price": 120,
@@ -38,17 +40,20 @@
     },
     { "id":  5,
       "title": "Nike classic",
+      "image": "://demo-server-forked.vercel.app/assets/nike1.png",
       "color": "white",
       "price": 90,
       "rating": 3.5
     },
     { "id":  6,
+      "image": "://demo-server-forked.vercel.app/assets/red1.png",
       "title": "Nike fast",
       "color": "red",
       "price": 140,
       "rating": 5
     },
     { "id":  7,
+      "image": "://demo-server-forked.vercel.app/assets/blue1.png",
       "title": "Puma",
       "color": "blue",
       "price": 170,
