@@ -16,55 +16,55 @@
       "title": "Adidas",
       "color": "black",
       "price": 100,
-      "rating": "4.5"
+      "rating": 4.5
     },
     { "id":  2,
       "title": "Adidas 2",
       "color": "white",
       "price": 110,
-      "rating": "4.5"
+      "rating": 4.5
     },
     { "id":  3,
       "title": "Reebok",
       "color": "red",
       "price": 110,
-      "rating": "4"
+      "rating": 4
     },
     { "id":  4,
       "title": "Reebok dark",
       "color": "black",
       "price": 120,
-      "rating": "4"
+      "rating": 4
     },
     { "id":  5,
       "title": "Nike classic",
       "color": "white",
       "price": 90,
-      "rating": "3.5"
+      "rating": 3.5
     },
     { "id":  6,
       "title": "Nike fast",
       "color": "red",
       "price": 140,
-      "rating": "5"
+      "rating": 5
     },
     { "id":  7,
       "title": "Puma",
       "color": "blue",
       "price": 170,
-      "rating": "4.9"
+      "rating": 4.9
     },
     { "id":  8,
       "title": "Sketchers",
       "color": "gray",
       "price": 110,
-      "rating": "4"
+      "rating": 4
     },
     { "id":  9,
       "title": "Noname",
       "color": "brown",
       "price": 20,
-      "rating": "2"
+      "rating": 2
     }
   ],
   "colors": ["white", "black", "red", "blue", "grey", "brown"]
